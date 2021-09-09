@@ -34,7 +34,7 @@ bot = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="StreamMusic.modules"),
+    plugins=dict(root="Amdymusic.modules"),
 )
 
 bot.start()
