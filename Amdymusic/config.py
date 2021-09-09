@@ -1,4 +1,4 @@
-# STREAMMUSIC- Telegram bot project
+# Amdybot- Telegram bot project
 # Copyright (C) 2021  Roj Serbest
 # Copyright (C) 2021  Nadun malaka
 # This program is free software: you can redistribute it and/or modify
