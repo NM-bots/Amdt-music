@@ -26,7 +26,7 @@
 
 ### 💜 Heroku ♐
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NM-bots/Amdy-music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
 Get pyrogram (p)  `SESSION` from here:
 
