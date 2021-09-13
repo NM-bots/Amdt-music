@@ -2,7 +2,7 @@
 
 ### A bot that can play music on telegrame group and channel voice chat
 
-### Available on telegrame as[@Amdy Music](https://t.me/@AmdyXMusicbot)
+### Available on telegrame as[@Amdy Music](https://t.me/@AmdyXMusicbo)
 
 <p align="center">
   <img src="https://telegra.ph/file/7f0c3e44900a71da2c449.jpg">
